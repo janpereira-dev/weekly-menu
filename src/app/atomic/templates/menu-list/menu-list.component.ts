@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'tpl-menu-list',
+  selector: 'app-tpl-menu-list',
   templateUrl: './menu-list.component.html',
   styleUrls: ['./menu-list.component.scss']
 })
